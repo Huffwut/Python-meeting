@@ -9,7 +9,9 @@ have the w2.py in the same work folder
 use jupyter notebook
 
 ```
-# make a separate python file, and play around with importing, e.g. what happens when you just import w2, or try out 'from w2 import LineMultiplication', what about 'as' keyword?
+# make a separate python file, and play around with importing,
+# what happens when you just import w2?
+# or try out 'from w2 import LineMultiplication'? what about using 'as' keyword?
 
 import w2
 va = w2.LineMultiplication(2,4)
